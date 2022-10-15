@@ -1,0 +1,62 @@
+body{background:
+    linear-gradient(135deg, #708090 21px, #d9ecff 22px, #d9ecff 24px, transparent 24px, transparent 67px, #d9ecff 67px, #d9ecff 69px, transparent 69px),
+    linear-gradient(225deg, #708090 21px, #d9ecff 22px, #d9ecff 24px, transparent 24px, transparent 67px, #d9ecff 67px, #d9ecff 69px, transparent 69px)0 64px;
+    background-color:#708090;
+      background-size: 64px 128px;
+    background:pink;
+      color:red;
+    }
+      #destacado{
+        background:blue;
+        font-size:32px;
+      }
+        .nueva{
+        border-style:solid;
+      }
+    button{
+      background:yellow;
+      width:200px;
+      height:50px;
+      border-radius:25px;
+      border:none;
+      cursor:pointer;
+      font-size:26px;
+    }
+    button:hover{
+      background:black;
+      color:yellow;
+    }
+    body{
+      background:darkblue;
+      color:greenyellow;
+    }
+    #seccion_1{
+      background:red;
+      font-size:32px;
+    }
+    #seccion_2{
+      background:purple;
+      font-size:18px;
+    }
+    .boton{
+     text-decoration:none;
+    }
+    #btn_volver{
+      background:yellow;
+      width:600px;
+      height:40px;
+      border-radius:25px;
+      border:none;
+      cursor:pointer;
+      font-size:26px;
+      display:inline-block;
+        text-align:center;
+      text-decoration:none;
+      padding-top:8px;
+    }
+    #btn_volver:hover{
+      background:black;
+      color:yellow;
+    }
+    
+    
